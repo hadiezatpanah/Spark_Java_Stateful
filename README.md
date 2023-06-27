@@ -3,7 +3,7 @@
 ## Introduction
 
 This project presents a distributable solution based on Spark Java, aiming to connect start and end session events together in a stateful manner. Rather than relying on identical IDs for event connection, this solution leverages the sequence of events within the same category.
-Finding comprehensive resources on Spark's flatMapGroupsWithState functionality can be challenging. Thus, this project serves as a valuable sample demonstrating the strength of stateful processing in Spark. By delving into the provided code and implementation details, experienced users can  find this project beneficial in gaining a deeper understanding of effective utilization of stateful processing in Spark for their intricate data processing needs.
+Finding comprehensive resources on Spark's flatMapGroupsWithState functionality can be challenging. Thus, this project serves as a valuable sample demonstrating the strength of stateful processing in Spark. By delving into the provided code and implementation details, experienced users can find this project beneficial in gaining a deeper understanding of effective utilization of stateful processing in Spark for their intricate data processing needs.
 
 
 ## Datasets
