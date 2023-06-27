@@ -37,7 +37,7 @@ The main algorithm of generating output based on the input batch of data will ha
 
 
 <p align="center">
-  <img src = "Images/StandStill-Spark statefull approach.drawio.sv" width=100%>
+  <img src = "Images/StandStill-Spark statefull approach.drawio.svg" width=100%>
 </p>
 
 ## Deployment and Environment Configuration
